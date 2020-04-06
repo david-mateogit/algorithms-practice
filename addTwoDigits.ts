@@ -1,4 +1,4 @@
-function addTwoDigits(n: any): number {
+function addTwoDigits(n: number): number {
   const str = String(n);
   return str
     .split("")
