@@ -4,5 +4,5 @@
   "description": "Repo for algorithms practice",
   "keywords": ["algorithms", "typescript"],
   "author": "David Mateo <davidmateo@outlook.com>",
-  "license": "ISC"
+  "license": "MIT"
 }
