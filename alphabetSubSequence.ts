@@ -1,5 +1,5 @@
 function alphabetSubsequence(s: string): boolean {
-  const arr = s.split("");
+  const arr: string[] = s.split("");
 
   for (let i = 0; i < arr.length - 1; i += 1) {
     if (arr[i].charCodeAt(0) >= arr[i + 1].charCodeAt(0)) {
